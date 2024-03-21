@@ -1,16 +1,66 @@
-### Hi there 👋
+<a href="https://www.rohitsaraf.in" target="_blank">
+   <img src="." >
+</a>
 
-<!--
-**RahulNegi7/rahulNegi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<a href="https://github.com/RahulNegi7" target="_blank">
+    <img src="./images/github.png" height="30px">
+</a>
+<a href="https://www.linkedin.com/in/rahul-negi-961b88275/" target="_blank">
+    <img src="./images/linkedin.png" height="30px">
+</a>
+<a href="https://leetcode.com/RahulNegi7/" target="_blank">
+    <img src="./images/leetcode.png" height="30px">
+</a>
+<a href="https://www.hackerrank.com/profile/rahulnegi0465" target="_blank">
+    <img src="./images/hackerRank.png" height="30px">
+</a>
+<a href="https://www.instagram.com/_rahul__.negi/" target="_blank">
+    <img src="./images/ig.png" height="30px">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+# I'm [Rahul Negi]
+
+![Profile Views](https://komarev.com/ghpvc/?username=RahulNegi7&label=Profile%20views&color=0e75b6&style=flat)
+
+Passionate full-stack developer with 4 years of experience in coding, specializing in web development. Enthusiastic about 3D modeling and robotics, having actively contributed to robotics projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
+
+Versatile professional with extensive experience in developing solutions across web, mobile, desktop, and embedded systems. Demonstrated proficiency in mastering emerging technologies and delivering advanced solutions that contribute to innovation in the dynamic tech landscape.
+
+- 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
+- 📫 &nbsp;You can contact me [here](mailto:rahulnegi0465@gmail.com).
+
+<details>
+
+<summary>🛠 &nbsp;Tools & Frameworks</summary>
+
+<br>
+
+![Tools](https://skillicons.dev/icons?i=html,c,python,cpp,css)
+
+> These are some of the tools and frameworks that I have worked with. My expertise includes working on web, mobile, desktop, and embedded systems. I have utilized a wide range of technologies, including Python, C, C++, HTML, CSS, among others.
+
+</details>
+
+<details>
+
+<summary>🔥 &nbsp;Github Streak</summary>
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RahulNegi7&theme=github-dark&border_radius=20)](https://git.io/streak-stats)
+
+</details>
+
+<details>
+
+<summary>ℹ &nbsp;More Info</summary>
+
+<br>
+
+> Note: Passionate full-stack developer with 4 years of experience in coding, specializing in web development. Enthusiastic about 3D modeling and robotics, having actively contributed to robotics projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
+
+</details>
