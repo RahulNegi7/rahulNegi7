@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=leetcode" height="30px">
 </a>
 <a href="https://www.hackerrank.com/profile/rahulnegi0465" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerRank" height="30px">
+    <img src="./images/hackerrank.png/" height="30px">
 </a>
 <a href="https://www.instagram.com/_rahul__.negi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="30px">
