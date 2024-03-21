@@ -1,8 +1,5 @@
 ![Header](https://github.com/RahulNegi7/rahulNegi7/assets/138356066/fc85545b-f993-4671-b192-983f4680aee4)
 
-<img src="." >
-
-
 <p align="center">
 
 <a href="https://github.com/RahulNegi7" target="_blank">
