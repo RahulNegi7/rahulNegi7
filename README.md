@@ -1,4 +1,4 @@
-<img src="./images/github_banner.png/" width="1000px">
+<img src="./images/github-header.png/" width="1000px">
 <p align="center">
 
 <a href="https://github.com/RahulNegi7" target="_blank">
