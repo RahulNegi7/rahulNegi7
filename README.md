@@ -1,6 +1,6 @@
-<a href="https://www.rohitsaraf.in" target="_blank">
-   <img src="." >
-</a>
+
+<img src="." >
+
 
 <p align="center">
 
