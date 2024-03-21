@@ -1,4 +1,4 @@
-![Header](https://github.com/RahulNegi7/rahulNegi7/assets/138356066/fc85545b-f993-4671-b192-983f4680aee4)
+![Header](https://github.com/RahulNegi7/rahulNegi7/assets/138356066/fc85545b-f993-4671-b192-983f4680aee4) 
 
 <p align="center">
 
@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="30px">
 </a>
 <a href="https://leetcode.com/RahulNegi7/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="30px">
+    <img src="./images/leetcode.png/" height="30px">
 </a>
 <a href="https://www.hackerrank.com/profile/rahulnegi0465" target="_blank">
     <img src="./images/hackerrank.png/" height="30px">
