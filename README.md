@@ -5,19 +5,19 @@
 <p align="center">
 
 <a href="https://github.com/RahulNegi7" target="_blank">
-    <img src="./images/github.png" height="30px">
+    <img src="https://skillicons.dev/icons?i=github" height="30px">
 </a>
 <a href="https://www.linkedin.com/in/rahul-negi-961b88275/" target="_blank">
-    <img src="./images/linkedin.png" height="30px">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30px">
 </a>
 <a href="https://leetcode.com/RahulNegi7/" target="_blank">
-    <img src="./images/leetcode.png" height="30px">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="30px">
 </a>
 <a href="https://www.hackerrank.com/profile/rahulnegi0465" target="_blank">
-    <img src="./images/hackerRank.png" height="30px">
+    <img src="https://skillicons.dev/icons?i=hackerRank" height="30px">
 </a>
 <a href="https://www.instagram.com/_rahul__.negi/" target="_blank">
-    <img src="./images/ig.png" height="30px">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30px">
 </a>
 
 </p>
