@@ -1,4 +1,7 @@
+[![An image of @rahulnegi7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulnegi7)](https://holopin.io/@rahulnegi7)
 <img src="./images/github-header.png/" width="1000px">
+
+
 <p align="center">
 
 <a href="https://github.com/RahulNegi7" target="_blank">
