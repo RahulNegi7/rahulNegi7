@@ -9,8 +9,7 @@
 <a href="https://www.linkedin.com/in/rahul-negi-961b88275/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30px">
 </a>
-<a href="https://leetcode.com/RahulNegi7/" target="_blank">
-    <img src="./images/leetcode.png/" height="30px">
+
 </a>
 <a href="https://www.hackerrank.com/profile/rahulnegi0465" target="_blank">
     <img src="./images/hackerrank.png/" height="30px">
