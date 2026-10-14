@@ -1,64 +1,41 @@
-<img src="./images/github-header.png/" width="1000px">
-
-
 <p align="center">
-
-<a href="https://github.com/RahulNegi7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="30px">
-</a>
-<a href="https://www.linkedin.com/in/rahul-negi-961b88275/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30px">
-</a>
-
-</a>
-<a href="https://www.hackerrank.com/profile/rahulnegi0465" target="_blank">
-    <img src="./images/hackerrank.png/" height="30px">
-</a>
-<a href="https://www.instagram.com/_rahul__.negi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30px">
-</a>
-
+  <img src="./images/github-header.png" alt="Rahul Negi" width="100%">
 </p>
 
-# I'm [Rahul Negi]
+<p align="center">
+  <a href="https://github.com/RahulNegi7">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-negi-961b88275/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30">
+  </a>
+  <a href="https://www.hackerrank.com/profile/rahulnegi0465">
+    <img src="./images/hackerrank.png" alt="HackerRank" height="30">
+  </a>
+  <a href="https://www.instagram.com/_rahul__.negi/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30">
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RahulNegi7&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align="center">Hi, I'm Rahul Negi 👋</h1>
 
-Passionate full-stack developer with 1 year of experience in coding, specializing in web development. Enthusiastic about Competitive programming and web-development, having actively contributed to some web-dev projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
+<p align="center">
+  Computer Science undergraduate at SRM University, interested in full-stack development,
+  AI-powered applications, and cloud technologies.
+</p>
 
-Versatile professional with extensive experience in developing solutions across web, mobile, desktop, and embedded systems. Demonstrated proficiency in mastering emerging technologies and delivering advanced solutions that contribute to innovation in the dynamic tech landscape.
+- 🎓 B.Tech in Computer Science and Engineering, SRM University — CGPA: 9.05/10
+- 💼 Front-end development experience with Team Envision
+- 🌱 Currently building my skills in software development and cloud technologies
+- 📜 AWS Certified Cloud Practitioner and AWS Certified AI Practitioner
+- 📫 [Email me](mailto:rahulnegi0465@gmail.com)
 
-- 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
-- 📫 &nbsp;You can contact me [here](mailto:rahulnegi0465@gmail.com).
+## Tech Stack
 
-<details>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,c,js,html,css,react,nodejs,mysql,docker,aws,git,github" alt="Java, C++, Python, C, JavaScript, HTML, CSS, React, Node.js, MySQL, Docker, AWS, Git, and GitHub">
+</p>
 
-<summary>🛠 &nbsp;Tools & Frameworks</summary>
+## GitHub
 
-<br>
-
-![Tools](https://skillicons.dev/icons?i=html,c,python,cpp,css)
-
-> These are some of the tools and frameworks that I have worked with. My expertise includes working on web, mobile, desktop, and embedded systems. I have utilized a wide range of technologies, including Python, C, C++, HTML, CSS, among others.
-
-</details>
-
-<details>
-
-<summary>🔥 &nbsp;Github Streak</summary>
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RahulNegi7&theme=github-dark&border_radius=20)](https://git.io/streak-stats)
-
-</details>
-
-<details>
-
-<summary>ℹ &nbsp;More Info</summary>
-
-<br>
-
-> Note: Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
-
-</details>
+![Profile views](https://komarev.com/ghpvc/?username=RahulNegi7&label=Profile%20views&color=0e75b6&style=flat)
